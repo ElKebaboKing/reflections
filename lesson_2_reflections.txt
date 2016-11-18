@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+When a repository is initialised, it allows for tracking and making commits. It is needed, since commits cannot be done without a repository being initialised.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area differs from the working directory and the repository by allowing the user to manage what files to commit before committing them.
