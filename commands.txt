@@ -1,0 +1,14 @@
+cd		# Change directory
+mkdir	# Make directory
+pwd 	# print working directory - shows what directory you are in
+ls  	# list the files in this directory
+diff 	# check difference between files. use diff -u for unix based OS, and FC for windows based OS
+
+git log 		# every commit that's ever been made, starting with the most recent.
+git diff 		# compares differences between commit codes. PRESS Q TO QUIT GIT DIFF.
+git log --stat	# Check statistics of which files were changes between each commit
+git clone		# Clone a repository from the location. (URL is used)
+git config --global color.ui auto	# Adds colors to added and removed lines.
+git checkout	# use this + the commit ID in order to access that commit
+git init 		# initialise repository. (allows for commits and stuff)
+git status		# Check if there are any files that are untracked
