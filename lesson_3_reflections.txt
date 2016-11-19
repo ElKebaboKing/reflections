@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 - Forks are used to clone a repository online, from someone else to my own account.
 - Clones are used to clone a repository from an online source to a local area, or within the local area.
 - Branches are used to test features, or add something experimental without breaking everything.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Being able to fast-forward merge?
