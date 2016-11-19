@@ -12,3 +12,7 @@ The staging area allows the user to see what files are being commited, which hel
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When trying an experimental feature, or adding/changing languages. Branches allow for changes in several commits in the code while working on the original code in parallell without the two branches compromising one another.
+
+
+How do the diagrams help you visualize the branch structure?
+Diagrams allow me to visualise how the branches' structures change, and simplifies the process of keeping track of those brances.
