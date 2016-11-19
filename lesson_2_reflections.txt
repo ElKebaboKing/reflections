@@ -16,3 +16,7 @@ When trying an experimental feature, or adding/changing languages. Branches allo
 
 How do the diagrams help you visualize the branch structure?
 Diagrams allow me to visualise how the branches' structures change, and simplifies the process of keeping track of those brances.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together results in merging the changes from both branches into one branch, which in this case was the master branch. 
