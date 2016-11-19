@@ -12,3 +12,4 @@ git config --global color.ui auto	# Adds colors to added and removed lines.
 git checkout	# use this + the commit ID in order to access that commit
 git init 		# initialise repository. (allows for commits and stuff)
 git status		# Check if there are any files that are untracked
+
